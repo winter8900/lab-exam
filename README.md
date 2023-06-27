@@ -1,1 +1,1 @@
-# lab-exam
+# software engineering principles lab exam
